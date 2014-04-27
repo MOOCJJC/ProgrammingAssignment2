@@ -11,7 +11,7 @@ This file show the running results on my own computer.
 [1,] -1.1550917  1.0292266  0.6376822
 [2,] -0.2709376 -0.5080896 -2.0931775
 [3,] -0.3313135  0.9857861  1.0644931
-> source.with.encoding('C:/Users/Jiajun/Git_local/MOOCJJC/ProgrammingAssignment2/cachematrix.R', encoding='UTF-8')
+> source.with.encoding('./Git_local/MOOCJJC/ProgrammingAssignment2/cachematrix.R', encoding='UTF-8')
 > test2 <- makeCacheMatrix(test)
 > test2
 $set
