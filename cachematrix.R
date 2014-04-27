@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This R program defined two functions that create a special matrix object that
+## stores its own inversion and contains setter and getter functions to return
+## itself or the inversion.
 
 ## Write a short comment describing this function
 
