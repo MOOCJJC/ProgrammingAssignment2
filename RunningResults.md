@@ -2,7 +2,7 @@
 
 This file show the running results on my own computer.
 
-<!-- -->
+```r
 
 > test <- rnorm(9)
 > dim(test) <- c(3,3)
@@ -69,3 +69,4 @@ Error in test2 %*% test2$getInv() :
 [2,] -1.110223e-16  1.000000e+00  0.000000e+00
 [3,] -1.665335e-16  1.110223e-16  1.000000e+00
 > 
+```
